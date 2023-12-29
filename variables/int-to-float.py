@@ -16,6 +16,12 @@ print(int(x))
 # convert x to string using str() function and print its type
 print(type(str(x)))
 
+y = 11
+
+print (y)
+
+del y
+
 
 """
 x = 10: This line assigns the value 10 to the variable x.
